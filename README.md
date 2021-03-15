@@ -3,6 +3,8 @@
 Switcher button.
 Flutter switch button with minimal design and material animation and highly
 customizable.It can be use as switch button or toggle buttons.
+
+
 <img src="https://user-images.githubusercontent.com/32927238/111130699-cead5300-8577-11eb-8759-7b07b2c4d28c.gif" width="32%">
 
 | Property | Description |
