@@ -1,8 +1,8 @@
 library switcher_button;
 
-import 'dart:math';
 import 'package:flutter/material.dart';
 
+// ignore: must_be_immutable
 class SwitcherButton extends StatefulWidget {
   /// width and height of widget.
   /// width = size,height = size / 2.
