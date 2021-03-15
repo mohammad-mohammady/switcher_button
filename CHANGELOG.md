@@ -1,3 +1,7 @@
-## [0.0.1] - 5 March 2021.
+## [0.0.1] - 15 March 2021.
 
 * First version of switcher_button.
+
+## [0.0.2] - 15 March 2021.
+
+* Fix Readme and CHANGELOG.

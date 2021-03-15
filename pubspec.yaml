@@ -1,7 +1,7 @@
 name: switcher_button
 description: Flutter switch button with minimal design and material animation and highly
   customizable.It can be use as switch button or toggle buttons.
-version: 0.0.1
+version: 0.0.2
 author: mohammad mohammady<mohammad.mohammady.73@gmail.com>
 homepage: https://github.com/appiranian/switcher_button.git
 
