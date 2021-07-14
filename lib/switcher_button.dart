@@ -43,6 +43,14 @@ class SwitcherButton extends StatefulWidget {
 
 class _SwitcherButtonState extends State<SwitcherButton>
     with TickerProviderStateMixin {
+  
+  @override
+  void dispose() {
+    _rightController.dispose();
+    _leftController.dispose();
+    super.dispose();
+  }
+  
   /// sate of widget that can be switched on or switched off.
   late bool value;
 
